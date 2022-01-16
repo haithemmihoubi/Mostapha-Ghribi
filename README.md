@@ -1,4 +1,4 @@
-![alt text](https://github.com/Mostapha-Ghribi/Mostapha-Ghribi/blob/Res/avatarhi.png?raw=true)
+![alt text](https://github.com/Mostapha-Ghribi/Mostapha-Ghribi/blob/main/avatarhi.png?raw=true)
 
   <b> I'm Mostapha Ghribi</b>
 
@@ -35,6 +35,7 @@ const Me = {
 
 ![Mostapha Ghribi's Activity Graph](https://activity-graph.herokuapp.com/graph?username=mostapha-ghribi&custom_title=Mostapha%20Ghribi%27s%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
+![alt text](https://github.com/Mostapha-Ghribi/Mostapha-Ghribi/blob/main/avatar.png?raw=true)
 ## Contact me 📫:
 [![Gmail Badge](https://img.shields.io/badge/-mostapha.ghribi20@gmail.com-red?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:mostapha.ghribi20@gmail.com)](mailto:mostapha.ghribi20@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-mostapha_ghribi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mostapha-ghribi-0ba193227/)](https://www.linkedin.com/in/mostapha-ghribi-0ba193227/)
